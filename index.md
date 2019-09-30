@@ -1,4 +1,4 @@
-Can I help you?
+[Can I help you?](./index.md)
 ===
 
 ## 目次
